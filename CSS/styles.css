@@ -1,0 +1,92 @@
+#hptl a {
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #000;
+    padding-left: 15px;
+    opacity: 0.75;
+    text-decoration: none;
+    margin-top: 15px;
+}
+
+.gb_Ra{
+    text-align: right;
+    min-width: 165px;
+    padding-left: 30px;
+    padding-right: 20px;
+    position: relative;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-indent: 25px;
+    margin-top: -10px;
+}
+
+.gb_Dg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gb_wc {
+    background-image: url(
+    //web.archive.org/web/20191130234759im_/
+    https://ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-size: 528px 68px;
+}
+
+
+
+.gb_C .gb_D {
+    background-position: -132px -38px;
+    opacity: .55;
+}
+
+#hplogo {
+    margin-left: 265px;
+}
+
+.wFncld {
+    color: #9AA0A6;
+    height: 20px;
+    width: 20px;
+    margin-top: 3px;
+}
+
+.z1asCe {
+    display: inline-block;
+    fill: currentColor;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    width: 24px;
+}
+
+body, td, a, p, .h {
+    font-family: arial, sans-serif;
+    color: #5f6368;
+    font-size: 14px;
+}
+
+#footer a {
+    display: inline-block;
+}
+
+ #far {
+     line-height: 40px;
+ }
+
+a:-webkit-any-link {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.Fx4vi {
+    padding-left: 27px;
+    margin: 0;
+}
+
+
